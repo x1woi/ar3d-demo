@@ -1,0 +1,38 @@
+{
+  "sunglasses": {
+    "model_path": "runtime_assets/competition_demo_models_hq/sunglasses_hq.glb",
+    "display_name": "Sunglasses",
+    "source": "KhronosGroup glTF Sample Assets",
+    "source_model": "SunglassesKhronos",
+    "license_path": "runtime_assets/competition_demo_models_hq/LICENSE_SunglassesKhronos.md"
+  },
+  "water_bottle": {
+    "model_path": "runtime_assets/competition_demo_models_hq/water_bottle_hq.glb",
+    "display_name": "Water Bottle",
+    "source": "KhronosGroup glTF Sample Assets",
+    "source_model": "WaterBottle",
+    "license_path": "runtime_assets/competition_demo_models_hq/LICENSE_WaterBottle.md"
+  },
+  "boombox": {
+    "model_path": "runtime_assets/competition_demo_models_hq/boombox_hq.glb",
+    "display_name": "BoomBox",
+    "source": "KhronosGroup glTF Sample Assets",
+    "source_model": "BoomBox",
+    "license_path": "runtime_assets/competition_demo_models_hq/LICENSE_BoomBox.md"
+  },
+  "antique_camera": {
+    "model_path": "runtime_assets/competition_demo_models_hq/antique_camera_hq.glb",
+    "display_name": "Antique Camera",
+    "source": "KhronosGroup glTF Sample Assets",
+    "source_model": "AntiqueCamera",
+    "license_path": "runtime_assets/competition_demo_models_hq/LICENSE_AntiqueCamera.md"
+  },
+  "damaged_helmet": {
+    "model_path": "runtime_assets/competition_demo_models_hq/damaged_helmet_hq.glb",
+    "display_name": "Damaged Helmet",
+    "source": "KhronosGroup glTF Sample Assets",
+    "source_model": "DamagedHelmet",
+    "license_path": "runtime_assets/competition_demo_models_hq/LICENSE_DamagedHelmet.md"
+  }
+}
+

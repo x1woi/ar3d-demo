@@ -1,0 +1,12 @@
+flask
+opencv-python
+mediapipe
+numpy
+requests
+edge-tts
+pandas
+scikit-learn
+matplotlib
+Pillow
+rapidfuzz
+

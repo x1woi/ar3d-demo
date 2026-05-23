@@ -1,0 +1,57 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+
+# Virtual environments
+.venv/
+.venv_public/
+.venv_sf3d/
+venv/
+env/
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Secrets
+.env
+*.pem
+*.key
+*token*
+*secret*
+*credential*
+huggingface/
+.cache/
+
+# Large/generated local outputs
+paper_repro_outputs/
+external/
+public_dataset_samples/
+v3_self_capture/
+cache_test_v2/
+cache_test_v3_real/
+multiview_test/
+model_cache/
+
+# Temporary videos/audio/images generated during local demo
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.wav
+*.mp3
+runtime_assets/selected_roi_*.jpg
+runtime_assets/tts_*.mp3
+runtime_assets/generated_model_*.glb
+runtime_assets/local_3d_work/
+runtime_assets/roi_sequences/
+runtime_assets/roi_preprocess_outputs/
+
+# Keep curated demo GLB assets under runtime_assets/competition_demo_models_hq/
+!runtime_assets/competition_demo_models_hq/*.glb
+!runtime_assets/competition_demo_models_hq/LICENSE_*.md
+

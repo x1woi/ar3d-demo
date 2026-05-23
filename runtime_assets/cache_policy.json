@@ -1,0 +1,14 @@
+{
+  "policy_name": "real_eval_rule_fusion_dual_threshold",
+  "score_formula": "0.5 * text_score + 0.5 * image_score",
+  "text_weight": 0.5,
+  "image_weight": 0.5,
+  "weak_threshold": 0.6,
+  "strong_threshold": 0.74,
+  "auto_hit_rule": "score >= 0.74",
+  "low_confidence_rule": "0.60 <= score < 0.74",
+  "miss_rule": "score < 0.60",
+  "source_experiment": "real_eval_200",
+  "notes": "Candidate rule-fusion policy. Learning-based models are not enabled in runtime."
+}
+
